@@ -21,7 +21,8 @@ Is a rookie who wants to learn deep learning, artificial intelligence, computers
 [![neptune-T's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=neptune-T&theme=rogue)](https://github.com/neptune-T/github-readme-activity-graph) 
 
 </div>
-----
+
+
 ## Profile Views
 ![Visitor Count](https://profile-counter.glitch.me/neptune-T/count.svg)
 
