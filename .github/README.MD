@@ -3,7 +3,7 @@
 
 <img src= "https://github.com/BEPb/BEPb/blob/main/src/header_.png?raw=true.png/">
 
-### Hello 👋I'm neptune-T 😃<br>
+### Hello👋 I'm PLOTE 😃<br>
 Is a rookie who wants to learn deep learning, artificial intelligence, computers.🦄️
 
 
