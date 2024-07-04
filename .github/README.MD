@@ -6,7 +6,7 @@
 ----
 
 ### Hello👋 I'm PLOTE 😃<br>
-Is a rookie who wants to learn deep learning, artificial intelligence, computers.🦄️
+Is a rookie who wants to learn deep learning,  computers.🦄️
 
 
 - 🔭 Recently I studied deep learning and machine learning.🤖
