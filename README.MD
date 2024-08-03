@@ -2,8 +2,10 @@
 
 <p align="center"><img src="https://github.com/BEPb/BEPb/blob/main/src/header_.png?raw=true.png/"></p>
 
+
 ## Hello👋 I'm PLOTE 😃<br>
 ### Is a rookie who wants to learn dl, cs.🦄️
+
 
 - 🌟 I've recently delved into the realms of deep learning and machine learning.🤖
 
@@ -18,9 +20,10 @@
 - 📮 If you have any intriguing ideas, feel free to contact me at plote5024@gmail.com.✉️
 
 
+
 <div id="badges" align="center">
   <a href="https://github.com/neptune-T/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=neptune-T&theme=vue" alt="neptune-T's github activity graph" style="width: 100%; height: auto;" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=neptune-T&theme=dracula" alt="neptune-T's github activity graph" style="width: 100%; height: auto;" />
   </a>
 </div>
 
@@ -43,10 +46,10 @@
   <table>
     <tr>
       <td>
-        <img  height=' 165px' src="https://github-readme-stats.vercel.app/api?username=neptune-T&show_icons=true&count_private=true&hide_border=true&theme=dark" style="width: 100%" />
+        <img  height=' 165px' src="https://github-readme-stats.vercel.app/api?username=neptune-T&show_icons=true&count_private=true&hide_border=true&theme=catppuccin_mocha" style="width: 100%" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neptune-T&hide_border=true&layout=compact&theme=dark" style="width: 100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neptune-T&hide_border=true&layout=compact&theme=catppuccin_mocha" style="width: 100%" />
       </td>
     </tr>
   </table>
