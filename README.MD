@@ -7,11 +7,6 @@
 ## Hello👋 I'm PLOTE 😃<br>
 Is a rookie who wants to learn dl, cs.🦄️
 
-- 🔭 Recently I studied dl and ml.
-- 📕 I’m currently reading prml.
-- 🎵 I'm proficient in playing the guitar and bass.
-- 📫 My E-mail: plote5024@gmail.com 💭 
-
 <div id="badges" align="center">
   <a href="https://github.com/neptune-T/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=neptune-T&theme=vue" alt="neptune-T's github activity graph" style="width: 100%; height: auto;" />
