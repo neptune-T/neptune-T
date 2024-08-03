@@ -7,6 +7,13 @@
 ## Hello👋 I'm PLOTE 😃<br>
 Is a rookie who wants to learn dl, cs.🦄️
 
+🌟 I've recently delved into the realms of deep learning and machine learning.
+📖 Currently, I am engrossed in the profound insights of "PRML" and exploring the statistical depths in "ESL".
+🎓 I've just started exploring the foundational concepts of convex optimization, appreciating the elegant beauty of its mathematical structures.
+🎵 I enjoy playing the guitar and bass, embracing my artistic side.
+⌨️ Embarking on a journey into the world of generative models, actively learning about their underlying mechanisms and the vast terrains of large language models.
+📮 If you have any intriguing ideas or thoughts, feel free to contact me at plote5024@gmail.com.
+
 <div id="badges" align="center">
   <a href="https://github.com/neptune-T/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=neptune-T&theme=vue" alt="neptune-T's github activity graph" style="width: 100%; height: auto;" />
