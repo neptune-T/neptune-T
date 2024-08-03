@@ -2,17 +2,21 @@
 
 <p align="center"><img src="https://github.com/BEPb/BEPb/blob/main/src/header_.png?raw=true.png/"></p>
 
-
-
 ## Hello👋 I'm PLOTE 😃<br>
-Is a rookie who wants to learn dl, cs.🦄️
+### Is a rookie who wants to learn dl, cs.🦄️
 
-🌟 I've recently delved into the realms of deep learning and machine learning.
-📖 Currently, I am engrossed in the profound insights of "PRML" and exploring the statistical depths in "ESL".
-🎓 I've just started exploring the foundational concepts of convex optimization, appreciating the elegant beauty of its mathematical structures.
-🎵 I enjoy playing the guitar and bass, embracing my artistic side.
-⌨️ Embarking on a journey into the world of generative models, actively learning about their underlying mechanisms and the vast terrains of large language models.
-📮 If you have any intriguing ideas or thoughts, feel free to contact me at plote5024@gmail.com.
+- 🌟 I've recently delved into the realms of deep learning and machine learning.🤖
+
+- 📖 Currently, I am engrossed in the profound insights of "_PRML_" and exploring the statistical depths in "_ESL_".📘
+
+- 🎓 I've just started exploring the foundational concepts of convex optimization, appreciating the elegant beauty of its mathematical structures.📐
+
+- 🎵 I enjoy playing the guitar and bass, embracing my artistic side.🎸
+ 
+- 💻 Embarking on a journey into the world of generative models, actively learning about their underlying mechanisms and the vast terrains of large language models.⌨️
+
+- 📮 If you have any intriguing ideas, feel free to contact me at plote5024@gmail.com.✉️
+
 
 <div id="badges" align="center">
   <a href="https://github.com/neptune-T/github-readme-activity-graph">
@@ -20,13 +24,13 @@ Is a rookie who wants to learn dl, cs.🦄️
   </a>
 </div>
 
-## Profile Views
+## 👀 Profile Views
 <p align="center">
   <img src="https://profile-counter.glitch.me/neptune-T/count.svg">
 </p>
 
-### 📈 GitHub Activity Graph:
----
+## 📈 GitHub Activity Graph:
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neptune-T/neptune-T/output/github-contribution-grid-snake-dark.svg">
@@ -34,7 +38,7 @@ Is a rookie who wants to learn dl, cs.🦄️
   </picture>
 </p>
 
-## Github Stats  
+## 🌠 Github Stats  
 <div align="center">
   <table>
     <tr>
