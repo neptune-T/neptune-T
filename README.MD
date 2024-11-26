@@ -4,20 +4,20 @@
 
 
 ## Hello👋 I'm PLOTE 😃<br>
-### Is a rookie who wants to learn dl, cs.🦄️
+### I’m a junior student with a strong interest in computer science and deep learning. Although I'm still in the learning phase, I'm passionate about growth and exploration.
 
 
-- 🌟 I've recently delved into the realms of deep learning and machine learning.🤖
+- **🌱 Current Focus**: I’ve been diving into the field of generative learning, pushing through mathematical formulas and studying the fundamentals every day, constantly improving.
 
-- 📖 Currently, I am engrossed in the profound insights of "_PRML_" and exploring the statistical depths in "_ESL_".📘
+- **🔥 Daily Commits**: I force myself to submit code to GitHub every day. If I don’t submit it one day, it is probably because I forgot or the computer system crashed.
 
-- 🎓 I've just started exploring the foundational concepts of convex optimization, appreciating the elegant beauty of its mathematical structures.📐
+- **💻 Tech Stack**: Although I am not a professional front-end engineer, but I can build a website independently and complete data visualization related projects.
 
-- 🎵 I enjoy playing the guitar and bass, embracing my artistic side.🎸
+- **✍️ Typesetting enthusiast**: I am a loyal fan of Typst and LaTeX, and I like to use them to write professional notes.
  
-- 💻 Embarking on a journey into the world of generative models, actively learning about their underlying mechanisms and the vast terrains of large language models.⌨️
+- **📚 Research-Driven**: I don’t pursue performance metrics for the sake of it, but I make it a habit to read top-tier conference papers every day, and I always learn something new.
 
-- 📮 If you have any intriguing ideas, feel free to contact me at plote5024@gmail.com.✉️
+- **🌊 Personal Interest**: I really, really, really like **looking at the sea.**
 
 
 
