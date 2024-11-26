@@ -27,10 +27,6 @@
   </a>
 </div>
 
-## 👀 Profile Views
-<p align="center">
-  <img src="https://profile-counter.glitch.me/neptune-T/count.svg">
-</p>
 
 ## 📈 GitHub Activity Graph:
 
