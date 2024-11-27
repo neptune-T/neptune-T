@@ -6,7 +6,7 @@
 ## Hello👋 I'm PLOTE 😃<br>
 ### I am a junior student interested in computer science and deep learning.
 
-I'm not familiar with <b>ANY</b> other language</del>
+<del> I'm not familiar with <b>ANY</b> other language</del>
 
 - **🌱 Current Focus**: I’ve been diving into the field of generative learning, pushing through mathematical formulas and studying the fundamentals every day, constantly improving.
 
