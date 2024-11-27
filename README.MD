@@ -4,8 +4,9 @@
 
 
 ## Hello👋 I'm PLOTE 😃<br>
-### I’m a junior student with a strong interest in computer science and deep learning. Although I'm still in the learning phase, I'm passionate about growth and exploration.
+### I am a junior student interested in computer science and deep learning.
 
+I'm not familiar with <b>ANY</b> other language</del>
 
 - **🌱 Current Focus**: I’ve been diving into the field of generative learning, pushing through mathematical formulas and studying the fundamentals every day, constantly improving.
 
@@ -13,7 +14,7 @@
 
 - **💻 Tech Stack**: Although I am not a professional front-end engineer, but I can build a website independently and complete data visualization related projects.
 
-- **✍️ Typesetting enthusiast**: I am a loyal fan of Typst and LaTeX, and I like to use them to write professional notes.
+- **✍️ Typesetting enthusiast**: I am a loyal fan of Typst and LaTeX, and I like to use them to write notes.
  
 - **📚 Research-Driven**: I don’t pursue performance metrics for the sake of it, but I make it a habit to read top-tier conference papers every day, and I always learn something new.
 
