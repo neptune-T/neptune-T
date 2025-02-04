@@ -15,10 +15,8 @@
 - **💻 Tech Stack**: Although I am not a professional front-end engineer, but I can build a website independently and complete data visualization related projects.
 
 - **✍️ Typesetting enthusiast**: I am a loyal fan of Typst and LaTeX, and I like to use them to write notes.
- 
-- **📚 Research-Driven**: I don’t pursue performance metrics for the sake of it, but I make it a habit to read top-tier conference papers every day, and I always learn something new.
 
-- **🌊 Personal Interest**: I really, really, really like **looking at the sea.**
+- **🌊 Personal Interest**: I really like **looking at the sea.**
 
 
 
