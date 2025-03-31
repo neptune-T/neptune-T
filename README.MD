@@ -8,18 +8,6 @@
 
 <del> I'm not familiar with <b>ANY</b> other language</del>
 
-- **🌱 Current Focus**: I’ve been diving into the field of generative learning, pushing through mathematical formulas and studying the fundamentals every day, constantly improving.
-
-- **🔥 Daily Commits**: I force myself to submit code to GitHub every day. If I don’t submit it one day, it is probably because I forgot or the computer system crashed.
-
-- **💻 Tech Stack**: Although I am not a professional front-end engineer, but I can build a website independently and complete data visualization related projects.
-
-- **✍️ Typesetting enthusiast**: I am a loyal fan of Typst and LaTeX, and I like to use them to write notes.
-
-- **🌊 Personal Interest**: I really like **looking at the sea.**
-
-
-
 <div id="badges" align="center">
   <a href="https://github.com/neptune-T/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=neptune-T&theme=dracula" alt="neptune-T's github activity graph" style="width: 100%; height: auto;" />
