@@ -4,9 +4,8 @@
 
 
 ## Hello👋 I'm PLOTE 😃<br>
-### I am a junior student interested in computer science and deep learning.
 
-<del> I'm not familiar with <b>ANY</b> other language</del>
+### <del> I'm not familiar with <b>ANY</b> other language</del>
 
 <div id="badges" align="center">
   <a href="https://github.com/neptune-T/github-readme-activity-graph">
