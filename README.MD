@@ -1,9 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
-
-<p align="center"><img src="https://github.com/BEPb/BEPb/blob/main/src/header_.png?raw=true.png/"></p>
-
-
-## Hello👋 I'm PLOTE 😃<br>
+# Hello👋 I'm PLOTE 😃<br>
 
 ### <del> I'm not familiar with <b>ANY</b> other language</del>
 
