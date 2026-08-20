@@ -1,6 +1,6 @@
 # Hello👋 I'm PLOTE 😃<br>
 
-<h3 align="center"> ### <del> I'm not familiar with <b>ANY</b> other language</del> </h3> 
+<h3 align="center"> <del> I'm not familiar with <b>ANY</b> other language</del> </h3> 
 
 <div align="center">
   
