@@ -1,11 +1,12 @@
 # Hello👋 I'm PLOTE 😃<br>
 
-### <del> I'm not familiar with <b>ANY</b> other language</del>
+<h3 align="center"> ### <del> I'm not familiar with <b>ANY</b> other language</del> </h3> 
 
-<div id="badges" align="center">
-  <a href="https://github.com/neptune-T/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=neptune-T&theme=dracula" alt="neptune-T's github activity graph" style="width: 100%; height: auto;" />
-  </a>
+<div align="center">
+  
+![snake](https://raw.githubusercontent.com/neptune-T/neptune-T/output/github-contribution-grid-snake.svg)
 </div>
+
+
 
 
